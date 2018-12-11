@@ -1,0 +1,89 @@
+@charset "utf-8";
+
+.font36 {
+	font-family: "黑体";
+	font-size: 36px;
+	line-height: 200px;
+	color: #FFF;
+	text-align: center;
+}
+.font24 {
+	font-family: "楷体";
+	font-size: 24px;
+	line-height: 26px;
+	color: #930;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+.font18 {
+	font-family: "楷体";
+	font-size: 18px;
+	line-height: 26px;
+	color: #333;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+.style18 {
+	font-family: "隶书";
+	font-size: 20px;
+	line-height: 30px;
+	text-align: center;
+	color: #060;
+}
+.style1 {
+	font-family: "隶书";
+	font-size: 16px;
+	line-height: 26px;
+	padding-top: 35px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+.style4 {
+	font-family: "楷体";
+	font-size: 16px;
+	line-height: 24px;
+	padding-left: 20px;
+	padding-top:0px;
+}
+.style7 {
+	line-height: 25px;
+}
+.style8 {
+	font-family: "楷体";
+	font-size: 18px;
+	line-height: 26px;
+	text-align: center;
+}
+
+.style7 ul li {
+	font-family: "隶书";
+	font-size: 16px;
+	line-height: 25px;
+	color:#333;
+}
+.style7 ul {
+	margin: 0px;
+	padding-right: 2px;
+	padding-left: 10px;
+}
+
+
+.style3 {
+	font-family: "黑体";
+	font-size: 18px;
+	line-height: 28px;
+	padding: 10px 10px 0px 10px;
+}
+.style5 {
+	font-family: "隶书";
+	font-size: 18px;
+	line-height: 35px;
+	padding-left: 170px;
+}
+.style6 {
+	font-family: "隶书";
+	font-size: 18px;
+	line-height: 35px;
+	padding-left: 10px;
+}

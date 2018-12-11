@@ -1,0 +1,138 @@
+@charset "utf-8";
+/* CSS Document */
+
+#container{margin:auto;width:1000px;}
+#container1 {
+	margin: auto;
+	width: 950px;
+}
+header {
+	background-image: url(images/top1.jpg);
+	height: 200px;
+}
+#nav1 {
+	background-image: url(images/1_2.jpg);
+	height: 32px;
+}
+#leftside1 {
+	background-image: url(images/1_3.jpg);
+	float: left;
+	width: 550px;
+	height:580px;
+}
+#rightside {
+	background-image: url(images/1_4.JPG);
+	float: left;
+	width: 400px;
+	height:580px;
+}
+footer {
+	background-image: url(images/bg.gif);
+	clear: both;
+	height: 10px;
+}
+.clearfloat {
+	font-size: 0px;
+	line-height: 0px;
+	clear: both;
+	height: 0px;
+}
+
+/*--------index3-2-------------------*/
+#container2 {
+	margin: auto;
+	width: 1040px;
+}
+.style2 {
+	font-family: "黑体";
+	font-size: 20px;
+	line-height: 30px;
+	padding-left: 30px;
+	color: #963;
+}
+
+
+
+#header2 {
+	background-image: url(images/r1.gif);
+	height: 250px;
+}
+#nav2 {
+	background-image: url(images/nav_bg_hover.jpg);
+	height: 30px;
+}
+#lefeside2 {
+	background-image: url(images/r2.gif);
+	float: left;
+	height: 350px;
+	width: 210px;
+}
+
+#middle2 {
+	background-image: url(images/r4.jpg);
+	float: left;
+	height: 350px;
+	width: 600px;
+	margin-left:10px;
+	margin-right:10px;
+}
+#rightside2 {
+	background-image: url(images/r3.gif);
+	float: left;
+	height: 350px;
+	width: 210px;
+}
+
+#footer2 {
+	background-image: url(images/r5.jpg);
+	clear: both;
+	height: 10px;
+}
+
+/*********index3-3********/
+#container3 {
+	margin: auto;
+	width: 1000px;
+}
+
+#header3 {
+	background-image: url(images/top3.jpg);
+	height: 250px;
+}
+#nav3 {
+	background-image: url(images/1_7.png);
+	height: 35px;
+}
+#bg1 {
+	background-image: url(images/1.jpg);
+	float: left;
+	height: 35px;
+	width: 380px;
+}
+#bg2 {
+	background-image: url(images/4.jpg);
+	float: left;
+	height: 35px;
+	width: 240px;
+}
+#picside {
+	float: left;
+	width: 140px;
+}
+#mainside {
+	float: left;
+	width: 240px;
+}
+#pic {
+	float: left;
+	width: 200px;
+}
+#bg3 {
+	background-image: url(images/1.jpg);
+	
+	height: 35px;
+	
+}#footer3 {
+	background-image: url(images/1_7.png);
+	height: 10px;
+}
